@@ -1,0 +1,25 @@
+.major {
+    background-color: black;
+    color: rgb(206, 193, 193);
+    border-bottom: tomato;
+    line-height: 2em;
+}
+.small-head {
+    color: goldenrod;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 10;
+    font-size: 1.5em;
+    font: 600;
+    display: flex;
+    height: 10vh;
+}
+.small-head div {
+    margin-left: 15em;
+    color: blueviolet;
+    display: flex;
+    align-content:center;
+    justify-content: flex-end;
+
+}
