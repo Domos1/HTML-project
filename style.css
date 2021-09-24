@@ -1,19 +1,12 @@
 .major {
-    background-color: whitesmoke;;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6_AgBOLOq1iUyfdviYCuY6jdogml-Suiog&usqp=CAU");
 }
 .small-head {
     color: goldenrod;
-    margin-top: 50px;
-    margin-bottom: 10px;
-    margin-left: 20px;
     margin-right: 10;
     font-size: 1.5em;
     font: 600;
-    display: flex;
-    height: 10vh;
-    position: fixed;
-    list-style: none;
-
+    display: inline;   
 }
 .small-head div {
     color: wheat;
