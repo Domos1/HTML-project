@@ -1,5 +1,5 @@
 .major {
-    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSr6_AgBOLOq1iUyfdviYCuY6jdogml-Suiog&usqp=CAU");
+    background-image: url("https://thumbs.dreamstime.com/b/grey-gradient-textured-background-wallpaper-design-use-text-images-grey-gradient-textured-background-wallpaper-design-146837722.jpg");
 }
 .small-head {
     color: goldenrod;
@@ -22,6 +22,9 @@
     display: inline;
 }
 
+.main-head img {
+    opacity: 50%;
+}
 .main-head {
     background-image: url("https://i2.wp.com/www.crazytips.org/wp-content/uploads/2020/10/logo-design.jpg?fit=678%2C381&ssl=1");
     color: rgb(255, 0, 0);
